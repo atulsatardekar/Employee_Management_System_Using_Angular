@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstname": "",
+      "lastname": "",
+      "birthday": "",
+      "gender": "",
+      "education": "default",
+      "company": "",
+      "jobExperience": "",
+      "salary": "",
+      "profile": "PHOTO-2022-01-30-12-58-52.docx"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
